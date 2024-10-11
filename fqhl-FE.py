@@ -40,7 +40,7 @@ def banner():
                                                
 """
     print(bannerinfo)
-    print("YYGRP-U8".center(100, '*'))
+    print("fqhl".center(100, '*'))
     print(f"[+]{sys.argv[0]} --url htttp://www.xxx.com 即可进行单个漏洞检测")
     print(f"[+]{sys.argv[0]} --file targetUrl.txt 即可对选中文档中的网址进行批量检测")
     print(f"[+]{sys.argv[0]} --help 查看更多详细帮助信息")
